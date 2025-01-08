@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![MAVLink-SBC-FC-Bridge](https://img.shields.io/badge/🔗%20MAVLink--SBC--FC--Bridge-Explore%20Now!-orange?style=for-the-badge)](https://github.com/Paschalis/mavlink-sbc-fc-bridge)                  
+[![MAVLink-SBC-FC-Bridge](https://img.shields.io/badge/🔗%20MAVLink--SBC--FC--Bridge-Explore%20Now!-orange?style=for-the-badge)](https://github.com/Paschalis/mavlink-sbc-fc-bridge)
 [![Stars](https://img.shields.io/github/stars/Paschalis/mavlink-sbc-fc-bridge?label=🌟%20Stars&style=for-the-badge&color=yellow)](https://github.com/Paschalis/mavlink-sbc-fc-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Paschalis/mavlink-sbc-fc-bridge?label=🍴%20Forks&style=for-the-badge&color=blue)](https://github.com/Paschalis/mavlink-sbc-fc-bridge/network/members) [![Activity](https://img.shields.io/github/last-commit/Paschalis/mavlink-sbc-fc-bridge?label=⏳%20Last%20Update&style=for-the-badge&color=green)](https://github.com/Paschalis/mavlink-sbc-fc-bridge/commits/main)
 
 </div>
