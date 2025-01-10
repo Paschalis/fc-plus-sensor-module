@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "c831470d-4a3e-4c64-b711-9d439212075e")
 	(paper "A4")
+	(title_block
+		(title "Version 3 (GPS:M10Q, MAG:LSM303AH, ELRS:2.4GHz_RX)")
+		(date "05-01-2025")
+		(rev "1.0")
+		(company "https://github.com/Paschalis")
+	)
 	(lib_symbols
 		(symbol "BAT54STA:BAT54STA"
 			(pin_names
@@ -4305,6 +4311,41 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgPg2rFxuZrl86AIAAAAASUVORK5CYII="
 		)
 	)
+	(image
+		(at 242.5 172.39)
+		(scale 0.098549)
+		(uuid "7930bd53-c7c2-469f-b6fa-ff97dc11cd71")
+		(data "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"
+		)
+	)
 	(text_box "R=(V_battery-V_f-V_chagre)/I_charge=(3.7-0.24-3.0)/0.0001=4.6K (4.7K)"
 		(exclude_from_sim no)
 		(at 48.26 77.47 0)
@@ -4405,6 +4446,16 @@
 			)
 		)
 		(uuid "3b2003a4-b855-4231-8624-bc411f0a1121")
+	)
+	(text "Paschalis M."
+		(exclude_from_sim no)
+		(at 214.63 183.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9c284e28-3758-4b65-8b22-c4d9fc7bb5fe")
 	)
 	(text "Connectors"
 		(exclude_from_sim no)
