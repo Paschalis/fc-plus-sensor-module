@@ -5,7 +5,7 @@
 	(uuid "077fb685-ae6d-4c10-b7f1-3e995dbeb40c")
 	(paper "A4")
 	(title_block
-		(title "SE435L (860 to 930 MHz High-Power RF Front-End Module)")
+		(title "SE2435L (860 to 930 MHz High-Power RF Front-End Module)")
 		(date "06-01-2025")
 		(rev "1.0")
 		(company "https://github.com/Paschalis")
@@ -2136,6 +2136,18 @@
 		)
 		(uuid "fedf32e6-94a6-404a-bd6a-6d0ba52cc280")
 	)
+	(rectangle
+		(start 62.23 29.21)
+		(end 228.6 154.94)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 89c683ff-3bb8-4e89-8c48-218b7b855d52)
+	)
 	(text "Paschalis M."
 		(exclude_from_sim no)
 		(at 214.376 183.388 0)
@@ -2145,6 +2157,16 @@
 			)
 		)
 		(uuid "18afc5c1-d647-435d-8010-93663e09e25b")
+	)
+	(text "SE2435L: 860 to 930 MHz High-Power RF Front-End Module"
+		(exclude_from_sim no)
+		(at 108.712 27.178 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "57d4cc0e-0ab7-41b5-a200-18de2c182d2d")
 	)
 	(label "VCC0"
 		(at 118.11 110.49 180)

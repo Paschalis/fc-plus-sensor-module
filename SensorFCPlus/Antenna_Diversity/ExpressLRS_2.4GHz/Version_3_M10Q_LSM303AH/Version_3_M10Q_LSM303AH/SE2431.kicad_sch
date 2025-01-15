@@ -1,0 +1,23 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3b6683f6-8f38-4e5d-aa51-7e5d74a56472")
+	(paper "A4")
+	(title_block
+		(date "05-01-2025")
+		(rev "1.0")
+		(company "https://github.com/Paschalis")
+	)
+	(lib_symbols)
+	(text "Paschalis M."
+		(exclude_from_sim no)
+		(at 214.376 183.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e2b28c4f-b3b0-4861-bfee-1f3148f0a146")
+	)
+)
