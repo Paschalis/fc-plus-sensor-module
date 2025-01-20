@@ -563,7 +563,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "/home/universitylaptop/GitHub Repositories/Paschalis_Sheet_Template.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -578,6 +578,18 @@
     [
       "9b601b2a-e8dd-477b-913e-01a336e391b8",
       "Root"
+    ],
+    [
+      "0eece480-063f-4580-b091-876854fe6ebe",
+      "ESP8285"
+    ],
+    [
+      "48af697c-fd59-4acc-be89-39e7c9791b17",
+      "SX1280"
+    ],
+    [
+      "14e29d42-9fdc-49a6-a533-e027239e54f6",
+      "SE2431L"
     ]
   ],
   "text_variables": {}
