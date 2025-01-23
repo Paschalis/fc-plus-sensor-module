@@ -10,15 +10,67 @@
 
 This repository contains a collection of **FC Plus Sensor Modules Boards** categorized by their transmission modes. More details about the transmission modes can be found in the [Transmission Modes Classification](SensorFCPlus/README.md).
 
-## 1. Antenna Diversity Boards
+> **Note:** The PCB colors are used to visually distinguish the boards. The **Antenna Diversity** boards feature **yellow** PCBs, while the **True Diversity** boards are **blue**. The **Gemini Mode** boards are marked with **red** PCBs, and the **Gemini Xrossband (GemX)** boards are designed with **purple** PCBs for easy identification.
+
+## 1. Antenna Diversity Boards (Yellow Boards)
+
+### FC Plus Sensor Modules Boards at 2.4GHz
+
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| V1-M10Q-HMC     | GPS: SAM-M10Q, MAG: HMC5883L, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+| V2-M10Q-QMC     | GPS: SAM-M10Q, MAG: QMC5883L, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+| V3-M10Q-LSM     | GPS: SAM-M10Q, MAG: LSM303AH, ELRS: 2.4GHz RX                   | [![Preview](Images/AD/V3-M10Q-LSM.gif)](https://github.com/Paschalis/fc-plus-sensor-module/tree/development/SensorFCPlus/Antenna_Diversity/ExpressLRS_2.4GHz/Version_3_M10Q_LSM303AH/Version_3_M10Q_LSM303AH) <p align="center"> Click on the image to view the files </p> |
+
+### FC Plus Sensor Modules Boards at 900MHz
+
+
+<details>
+<summary>Click to view Antenna Diversity Boards at 900MHz</summary>
+
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| V1-M10Q-HMC     | GPS: SAM-M10Q, MAG: HMC5883L, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+| V2-M10Q-QMC     | GPS: SAM-M10Q, MAG: QMC5883L, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+| V3-M10Q-LSM     | GPS: SAM-M10Q, MAG: LSM303AH, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+
+</details>
+
+---
+> **Note:** In the following boards, the **LSM303AH** magnetometer was selected over other options due to its **better overall performance**, offering improved accuracy and reliability in magnetic field sensing. The **MAX-M10S** GPS module was chosen instead of the SAM-M10Q for its **lower cost** while still providing good performance for navigation, making it a more economical choice for the boards.
+
+## 2. True Diversity Boards (Blue Boards)
+
+### FC Plus Sensor Modules Boards at 2.4GHz
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| TD-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+
+### FC Plus Sensor Modules Boards at 900MHz
+
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| TD-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+
+## 3. Gemini Mode Boards (Red Boards)
+
+### FC Plus Sensor Modules Boards at 2.4GHz
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| GEM-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+
+### FC Plus Sensor Modules Boards at 900MHz
+
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| Gem-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+
+## 4. Gemini Xrossband (GemX) Boards (Purple Boards)
 
 ### FC Plus Sensor Modules Boards
-| Name                                   | Features                                                      | Preview                                                       |
-|----------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| V1-M10Q-HMC | GPS: SAM-M10Q, MAG: HMC5883L, ELRS:2.4GHz_RX | [![Preview](Images/AD/V3-M10Q-LSM.gif)](https://github.com/Paschalis/fc-plus-sensor-module/tree/development/SensorFCPlus/Antenna_Diversity/ExpressLRS_2.4GHz/Version_3_M10Q_LSM303AH/Version_3_M10Q_LSM303AH) <p align="center"> Click on the image to view the files </p>|
-| V2-M10Q-QMC | GPS: SAM-M10Q, MAG: QMC5883L, ELRS:2.4GHz_RX | [![Preview](Images/Version_3_M10Q_LSM303AH_ELRS2.4GHz.png)](https://github.com/your-repo/FC-Plus-Sensor-Module/Version3) <p align="center"> Click on the image to view the files </p>| 
-| V3-M10Q-LSM | GPS: SAM-M10Q, MAG: LSM303AH, ELRS:2.4GHz_RX | [![Preview](Images/Version_3_M10Q_LSM303AH_ELRS2.4GHz.png)](https://github.com/your-repo/FC-Plus-Sensor-Module/Version3) <p align="center"> Click on the image to view the files </p>|
-
+| Name            | Features                                                        | Preview                                                       |
+|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| GemX-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 2.4GHz and 900MHz RX      | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
 
 
 ## Related Projects
