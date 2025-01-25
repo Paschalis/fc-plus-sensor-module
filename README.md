@@ -12,11 +12,11 @@ This repository contains a collection of **FC Plus Sensor Modules Boards** categ
 
 > **Note:** The PCB colors are used to visually distinguish the boards. The **Antenna Diversity** boards feature **yellow** PCBs, while the **True Diversity** boards are **blue**. The **Gemini Mode** boards are marked with **red** PCBs, and the **Gemini Xrossband (GemX)** boards are designed with **purple** PCBs for easy identification.
 
-<div style="text-align:center; margin-top:20px;">
+<p align="center">
     <a href="https://paschalis.github.io/fc-plus-sensor-module/" target="_blank">
         <img src="https://img.shields.io/badge/View_FC_Plus_Sensor_Module_Site-Blue?style=for-the-badge&logo=github&logoColor=white" alt="View FC Plus Sensor Module Site">
     </a>
-</div>
+</p>
 
 ## 1. Antenna Diversity Boards (Yellow Boards)
 
