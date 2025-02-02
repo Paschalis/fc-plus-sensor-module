@@ -4,6 +4,14 @@
 	(generator_version "8.0")
 	(uuid "9d72efb0-36d3-4576-8704-fa1fcfc0a2ff")
 	(paper "A4")
+	(title_block
+		(title "SE2431L")
+		(date "2025-01-28")
+		(rev "1.0")
+		(company "https://github.com/Paschalis")
+		(comment 2 "switch with support for antenna diversity.")
+		(comment 3 "Integrates a power amplifier (PA), a low noise amplifier (LNA), and an RF")
+	)
 	(lib_symbols
 		(symbol "Device:C_Small"
 			(pin_numbers hide)
@@ -1742,7 +1750,6 @@
 	)
 	(label "BOUT"
 		(at 101.6 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1753,7 +1760,6 @@
 	)
 	(label "VCC2"
 		(at 130.81 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1764,7 +1770,6 @@
 	)
 	(label "BOUT"
 		(at 168.91 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1775,7 +1780,6 @@
 	)
 	(label "VCC1"
 		(at 130.81 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1786,7 +1790,6 @@
 	)
 	(label "VCC2"
 		(at 168.91 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1797,7 +1800,6 @@
 	)
 	(label "VCC1"
 		(at 168.91 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1809,7 +1811,6 @@
 	(hierarchical_label "CTX"
 		(shape input)
 		(at 177.8 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1821,7 +1822,6 @@
 	(hierarchical_label "ANT2"
 		(shape output)
 		(at 172.72 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1833,7 +1833,6 @@
 	(hierarchical_label "ANT1"
 		(shape output)
 		(at 172.72 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1845,7 +1844,6 @@
 	(hierarchical_label "ANT_SEL"
 		(shape input)
 		(at 172.72 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1857,7 +1855,6 @@
 	(hierarchical_label "TR"
 		(shape input)
 		(at 115.57 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

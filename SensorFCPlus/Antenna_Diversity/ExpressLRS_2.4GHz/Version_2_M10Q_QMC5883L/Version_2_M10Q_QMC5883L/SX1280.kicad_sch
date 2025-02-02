@@ -4,6 +4,14 @@
 	(generator_version "8.0")
 	(uuid "aedc3ed8-d4ec-40b3-b214-1fc709703005")
 	(paper "A4")
+	(title_block
+		(title "SX1280")
+		(date "2025-01-28")
+		(rev "1.0")
+		(company "https://github.com/Paschalis")
+		(comment 2 "capabilities in LoRa communication, making it ideal for reliable telemetry.")
+		(comment 3 "The SX1280 is used for its long-range, low-power, and high-performance ")
+	)
 	(lib_symbols
 		(symbol "2450FM07D0034T:2450FM07D0034T"
 			(exclude_from_sim no)
@@ -1912,7 +1920,6 @@
 	)
 	(label "VDD_INN"
 		(at 58.42 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -1923,7 +1930,6 @@
 	)
 	(label "RFIO"
 		(at 129.54 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -1934,7 +1940,6 @@
 	)
 	(label "VDD_INN"
 		(at 67.31 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -1945,7 +1950,6 @@
 	)
 	(label "RFIO"
 		(at 209.55 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -1957,7 +1961,6 @@
 	(hierarchical_label "SX_SCK"
 		(shape input)
 		(at 129.54 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1969,7 +1972,6 @@
 	(hierarchical_label "DIO1"
 		(shape bidirectional)
 		(at 67.31 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1981,7 +1983,6 @@
 	(hierarchical_label "NSS_CTS"
 		(shape input)
 		(at 129.54 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1993,7 +1994,6 @@
 	(hierarchical_label "SX_MISO"
 		(shape output)
 		(at 129.54 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2005,7 +2005,6 @@
 	(hierarchical_label "BUSY"
 		(shape output)
 		(at 67.31 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2017,7 +2016,6 @@
 	(hierarchical_label "SX_NRESET"
 		(shape input)
 		(at 67.31 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2029,7 +2027,6 @@
 	(hierarchical_label "TR"
 		(shape output)
 		(at 245.11 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2041,7 +2038,6 @@
 	(hierarchical_label "SX_MOSI"
 		(shape input)
 		(at 129.54 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
