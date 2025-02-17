@@ -24,7 +24,7 @@ This repository contains a collection of **FC Plus Sensor Modules Boards** categ
 
 | Name            | Features                                                        | Preview                                                       |
 |-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
-| V1-M10Q-HMC     | GPS: SAM-M10Q, MAG: HMC5883L, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+| V1-M10Q-HMC     | GPS: SAM-M10Q, MAG: HMC5883L, ELRS: 2.4GHz RX                   | [![Preview](Images/AD/V1-M10Q-HMC.gif)](https://github.com/Paschalis/fc-plus-sensor-module/tree/development/SensorFCPlus/Antenna_Diversity/ExpressLRS_2.4GHz/Version_1_M10Q_HMC5883L/Version_1_M10Q_HMC5883L) <p align="center"> Click on the image to view the files </p>|
 | V2-M10Q-QMC     | GPS: SAM-M10Q, MAG: QMC5883L, ELRS: 2.4GHz RX                   | [![Preview](Images/AD/V2-M10Q-QMC.gif)](https://github.com/Paschalis/fc-plus-sensor-module/tree/development/SensorFCPlus/Antenna_Diversity/ExpressLRS_2.4GHz/Version_2_M10Q_QMC5883L/Version_2_M10Q_QMC5883L) <p align="center"> Click on the image to view the files </p>|
 | V3-M10Q-LSM     | GPS: SAM-M10Q, MAG: LSM303AH, ELRS: 2.4GHz RX                   | [![Preview](Images/AD/V3-M10Q-LSM.gif)](https://github.com/Paschalis/fc-plus-sensor-module/tree/development/SensorFCPlus/Antenna_Diversity/ExpressLRS_2.4GHz/Version_3_M10Q_LSM303AH/Version_3_M10Q_LSM303AH) <p align="center"> Click on the image to view the files </p> |
 
