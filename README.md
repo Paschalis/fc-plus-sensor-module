@@ -1,5 +1,7 @@
 # FC Plus Sensor Module
-
+<p align="center">
+  <img src="Images/preview1.png" alt="preview1">
+</p>
 <p align="center">
   <img src="Images/preview.png" alt="preview">
 </p>
