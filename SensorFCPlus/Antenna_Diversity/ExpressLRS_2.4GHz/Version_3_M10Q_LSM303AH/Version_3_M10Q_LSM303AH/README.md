@@ -8,9 +8,7 @@ Antenna Diversity
 
 </div>
 
-## Preview of Board
-![Board Preview](https://github.com/Paschalis/fc-plus-sensor-module/raw/development/Images/AD/V3-M10Q-LSM.gif)
-
+![Board Preview](LSM.png)
 ## Bill of Materials
 
 | **Reference**   | **Value**          | **Datasheet** | **Footprint**                                             | **Qty** | **DNP** |

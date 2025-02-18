@@ -3264,7 +3264,6 @@
 	)
 	(label "VDDD"
 		(at 177.8 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3275,7 +3274,6 @@
 	)
 	(label "VDDA"
 		(at 177.8 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3286,7 +3284,6 @@
 	)
 	(label "VDDD"
 		(at 78.74 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3297,7 +3294,6 @@
 	)
 	(label "LED"
 		(at 110.49 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3308,7 +3304,6 @@
 	)
 	(label "VDD3P3"
 		(at 107.95 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3319,7 +3314,6 @@
 	)
 	(label "VDD3P3"
 		(at 78.74 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3330,7 +3324,6 @@
 	)
 	(label "VDDPST"
 		(at 78.74 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3341,7 +3334,6 @@
 	)
 	(label "LED"
 		(at 38.1 25.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3352,7 +3344,6 @@
 	)
 	(label "VDDPST"
 		(at 189.23 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3363,7 +3354,6 @@
 	)
 	(label "VDDA"
 		(at 78.74 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3374,7 +3364,6 @@
 	)
 	(label "VDDPST"
 		(at 100.33 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3385,7 +3374,6 @@
 	)
 	(label "VDDA"
 		(at 78.74 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3396,7 +3384,6 @@
 	)
 	(label "VDDPST"
 		(at 78.74 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3407,7 +3394,6 @@
 	)
 	(label "VDD3P3"
 		(at 78.74 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3418,7 +3404,6 @@
 	)
 	(label "VDDA"
 		(at 110.49 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -3430,7 +3415,6 @@
 	(hierarchical_label "TX"
 		(shape output)
 		(at 179.07 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3442,7 +3426,6 @@
 	(hierarchical_label "RX"
 		(shape input)
 		(at 179.07 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3454,7 +3437,6 @@
 	(hierarchical_label "CTX"
 		(shape output)
 		(at 177.8 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3466,7 +3448,6 @@
 	(hierarchical_label "ANT_SEL"
 		(shape output)
 		(at 177.8 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3478,7 +3459,6 @@
 	(hierarchical_label "SX_NRESET"
 		(shape output)
 		(at 72.39 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3490,7 +3470,6 @@
 	(hierarchical_label "NSS_CTS"
 		(shape input)
 		(at 49.53 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3502,7 +3481,6 @@
 	(hierarchical_label "SX_MISO"
 		(shape input)
 		(at 110.49 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3514,7 +3492,6 @@
 	(hierarchical_label "BUSY"
 		(shape input)
 		(at 179.07 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3526,7 +3503,6 @@
 	(hierarchical_label "DIO1"
 		(shape bidirectional)
 		(at 110.49 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3538,7 +3514,6 @@
 	(hierarchical_label "SX_SCK"
 		(shape output)
 		(at 110.49 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3550,7 +3525,6 @@
 	(hierarchical_label "SX_MOSI"
 		(shape output)
 		(at 110.49 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
