@@ -52,26 +52,28 @@ This repository contains a collection of **FC Plus Sensor Modules Boards** categ
 ### FC Plus Sensor Modules Boards at 2.4GHz
 | Name            | Features                                                        | Preview                                                       |
 |-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
-| TD-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+| TD-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 2.4GHz RX                   | [![Preview](Images/TD/TD-M10S-LSM.gif)](https://github.com/Paschalis/fc-plus-sensor-module/tree/development/SensorFCPlus/Antenna_Diversity/ExpressLRS_2.4GHz/Version_1_M10Q_HMC5883L/Version_1_M10Q_HMC5883L) <p align="center"> Click on the image to view the files </p>|
 
 ### FC Plus Sensor Modules Boards at 900MHz
+<details>
+<summary>Click to view True Diversity Boards at 900MHz</summary>
 
 | Name            | Features                                                        | Preview                                                       |
 |-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
 | TD-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
 
-## 3. Gemini Mode Boards (Red Boards)
+</details>
 
-### FC Plus Sensor Modules Boards at 2.4GHz
-| Name            | Features                                                        | Preview                                                       |
-|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
-| GEM-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 2.4GHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+## 3. Gemini Mode Boards
 
-### FC Plus Sensor Modules Boards at 900MHz
-
-| Name            | Features                                                        | Preview                                                       |
-|-----------------|-----------------------------------------------------------------|---------------------------------------------------------------|
-| Gem-M10S-LSM     | GPS: MAX-M10S, MAG: LSM303AH, ELRS: 900MHz RX                   | ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange) |
+> **Note:**  
+> - The **Gemini boards** are actually the **True Diversity boards** operating in **Gemini Mode**.  
+> - To enable **Gemini Mode**, set the **RX Antenna Mode** to **Gemini** via Lua script.  
+> - **Single Antenna RX boards** can also operate in Gemini Mode but must use **Model 5** in **Model Config Matching** via Lua script.  
+> - **Gemini-capable receivers** should use **Model 6** in **Model Config Matching**.  
+> - Click on [🔗 **Go to True Diversity Full Diversity Boards (Blue Boards)**](#2-true-diversity-boards-blue-boards) to view compatible receivers.  
+>  
+> 📖 **Reference:** [ExpressLRS Gemini Mode Documentation](https://www.expresslrs.org/software/gemini/#what-is-gemini)  
 
 ## 4. Gemini Xrossband (GemX) Boards (Purple Boards)
 
